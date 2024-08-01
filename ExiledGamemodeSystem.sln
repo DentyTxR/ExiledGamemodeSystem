@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExiledGamemodeSystem", "ExiledGamemodeSystem\ExiledGamemodeSystem.csproj", "{71D33A52-FCB9-4F6B-A64D-9F87C6CB7942}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginExample", "PluginExample\PluginExample.csproj", "{B8FD2F79-5F6B-4043-944E-B5906352B162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{71D33A52-FCB9-4F6B-A64D-9F87C6CB7942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71D33A52-FCB9-4F6B-A64D-9F87C6CB7942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71D33A52-FCB9-4F6B-A64D-9F87C6CB7942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FD2F79-5F6B-4043-944E-B5906352B162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FD2F79-5F6B-4043-944E-B5906352B162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FD2F79-5F6B-4043-944E-B5906352B162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FD2F79-5F6B-4043-944E-B5906352B162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
